@@ -1,0 +1,88 @@
+  2048-qt acpi-support acpid alsa-base apport apport-symptoms apt-config-icons-hidpi
+  apt-config-icons-large apt-config-icons-large-hidpi apt-xapian-index aptdaemon
+  arc-theme bluedevil bluez bluez-cups bolt breeze-cursor-theme caca-utils chafa
+  compton compton-conf dc fonts-kacst fonts-kacst-one fonts-khmeros-core fonts-lao
+  fonts-lklug-sinhala fonts-noto-cjk fonts-sil-abyssinica fonts-sil-padauk
+  fonts-symbola fonts-thai-tlwg fonts-tibetan-machine fonts-tlwg-garuda
+  fonts-tlwg-garuda-ttf fonts-tlwg-kinnari fonts-tlwg-kinnari-ttf
+  fonts-tlwg-laksaman fonts-tlwg-laksaman-ttf fonts-tlwg-loma fonts-tlwg-loma-ttf
+  fonts-tlwg-mono fonts-tlwg-mono-ttf fonts-tlwg-norasi fonts-tlwg-norasi-ttf
+  fonts-tlwg-purisa fonts-tlwg-purisa-ttf fonts-tlwg-sawasdee
+  fonts-tlwg-sawasdee-ttf fonts-tlwg-typewriter fonts-tlwg-typewriter-ttf
+  fonts-tlwg-typist fonts-tlwg-typist-ttf fonts-tlwg-typo fonts-tlwg-typo-ttf
+  fonts-tlwg-umpush fonts-tlwg-umpush-ttf fonts-tlwg-waree fonts-tlwg-waree-ttf
+  fwupd fwupd-signed genisoimage gir1.2-udisks-2.0 git git-man
+  gnome-accessibility-themes gnome-themes-extra gnome-themes-extra-data
+  gstreamer1.0-gtk3 gtk2-engines-murrine gtk2-engines-pixbuf haveged htop
+  inputattach jp2a kactivities-bin kactivitymanagerd kcalc kde-cli-tools
+  kde-cli-tools-data kde-config-updates kde-style-breeze kerneloops
+  kpackagelauncherqml kpackagetool5 language-selector-common laptop-detect
+  liba52-0.7.4 libabw-0.1-1 libappstreamqt2 libaribb24-0 libayatana-ido3-0.4-0
+  libayatana-indicator3-7 libcddb2 libcdr-0.1-1 libchafa0 libcolamd2 libconfig9
+  libcupsimage2 libdc1394-25 libdca0 libdvbpsi10 libdvdnav4 libdvdread8
+  libe-book-0.1-1 libebml5 libepubgen-0.1-1 liberror-perl libetonyek-0.1-1 libev4
+  libevent-2.1-7 libfaad2 libflashrom1 libfm-data libfm-gtk-data libfm-gtk4
+  libfm-modules libfm4 libfreehand-0.1-1 libftdi1-2 libfwupd2 libfwupdplugin5
+  libgcab-1.0-0 libgles2 libgutenprint-common libgutenprint9 libhavege2 libixml10
+  libjcat1 libkate1 libkf5activities5 libkf5attica5 libkf5auth5 libkf5bluezqt-data
+  libkf5bluezqt6 libkf5calendarevents5 libkf5declarative-data libkf5declarative5
+  libkf5itemmodels5 libkf5kcmutils-data libkf5kcmutils5 libkf5kirigami2-5
+  libkf5networkmanagerqt6 libkf5newstuffcore5 libkf5notifyconfig-data
+  libkf5notifyconfig5 libkf5package-data libkf5package5 libkf5plasma5
+  libkf5plasmaquick5 libkf5pty-data libkf5pty5 libkf5quickaddons5 libkf5sane-data
+  libkf5sane5 libkf5style5 libkf5su-bin libkf5su-data libkf5su5
+  libkf5syndication5abi1 libkworkspace5-5 liblirc-client0 liblua5.2-0 libmad0
+  libmarkdown2 libmatroska7 libminiupnpc17 libminizip1 libmpcdec6 libmpeg2-4
+  libmspub-0.1-1 libmwaw-0.3-3 libnatpmp1 libnma-common libnma0 liboath0
+  libodfgen-0.1-1 libopenmpt-modplug1 libpackagekitqt5-1 libpagemaker-0.0-0
+  libplacebo192 libprotobuf-lite23 libproxy-tools libqapt3 libqapt3-runtime
+  libqca-qt5-2 libqca-qt5-2-plugins libqrencode4 libqt5designer5 libqt5help5
+  libqt5qmlworkerscript5 libqt5quickcontrols2-5 libqt5quicktemplates2-5
+  libqt5quickwidgets5 libqt5test5 libqt5webengine-data libqt5webenginecore5
+  libqt5webenginewidgets5 libre2-9 libreoffice-base-core libreoffice-calc
+  libreoffice-draw libreoffice-gtk3 libreoffice-impress libreoffice-math
+  libreoffice-qt5 libreoffice-writer libresid-builder0c2a libsbc1 libsdl-image1.2
+  libsdl1.2debian libsidplay2 libsmbios-c2 libsnapd-qt1 libspatialaudio0 libssh2-1
+  libsuitesparseconfig5 libu2f-udev libupnp13 libva-wayland2 libvisio-0.1-1
+  libvlc-bin libvlc5 libvlccore9 libvncclient1 libwhoopsie0 libwpd-0.10-10
+  libwpg-0.3-3 libwps-0.4-4 libxapian30 libxatracker2 libxcb-composite0
+  libxcb-damage0 libxcb-xv0 libxcvt0 libxfont2 libxvmc1 linux-sound-base lp-solve
+  lubuntu-default-settings lubuntu-grub-theme lubuntu-update-notifier lxqt-admin
+  lxqt-admin-l10n memtest86+ mobile-broadband-provider-info mscompress muon neofetch
+  nm-tray nm-tray-l10n noblenote oathtool pass pass-extension-otp pastebinit patch
+  pcmciautils picom plasma-discover plasma-discover-backend-fwupd
+  plasma-discover-backend-snap plasma-discover-common plasma-framework
+  policykit-desktop-privileges polkit-kde-agent-1 printer-driver-brlaser
+  printer-driver-c2esp printer-driver-foo2zjs printer-driver-foo2zjs-common
+  printer-driver-gutenprint printer-driver-m2300w printer-driver-min12xxw
+  printer-driver-pnm2ppa printer-driver-ptouch printer-driver-pxljr
+  printer-driver-sag-gdi printer-driver-splix pulseaudio-module-bluetooth pwgen
+  python3-apport python3-aptdaemon python3-chardet python3-click python3-colorama
+  python3-dbus.mainloop.pyqt5 python3-debconf python3-debian python3-defer
+  python3-problem-report python3-pyqt5 python3-pyqt5.sip python3-software-properties
+  python3-systemd python3-xapian python3-xkit qapt-deb-installer
+  qml-module-org-kde-bluezqt qml-module-org-kde-kconfig
+  qml-module-org-kde-kcoreaddons qml-module-org-kde-kio qml-module-org-kde-kirigami2
+  qml-module-org-kde-kquickcontrols qml-module-org-kde-kquickcontrolsaddons
+  qml-module-org-kde-newstuff qml-module-org-kde-qqc2desktopstyle
+  qml-module-org-kde-sonnet qml-module-qt-labs-folderlistmodel
+  qml-module-qt-labs-settings qml-module-qtgraphicaleffects qml-module-qtqml
+  qml-module-qtqml-models2 qml-module-qtquick-controls qml-module-qtquick-controls2
+  qml-module-qtquick-dialogs qml-module-qtquick-layouts
+  qml-module-qtquick-privatewidgets qml-module-qtquick-templates2
+  qml-module-qtquick-window2 qml-module-qtquick2 qrencode qtpass quassel
+  quassel-data rfkill sbsigntool screengrab sddm sddm-theme-lubuntu secureboot-db
+  skanlite software-properties-common software-properties-qt spice-vdagent toilet
+  toilet-fonts transmission-common transmission-qt tree ttf-ancient-fonts-symbola
+  ubuntu-drivers-common ubuntu-release-upgrader-qt unattended-upgrades
+  update-notifier-common usb-creator-common usb-creator-kde vlc vlc-bin vlc-data
+  vlc-l10n vlc-plugin-access-extra vlc-plugin-base vlc-plugin-notify vlc-plugin-qt
+  vlc-plugin-samba vlc-plugin-skins2 vlc-plugin-svg vlc-plugin-video-output
+  vlc-plugin-video-splitter vlc-plugin-visualization whoopsie x11-apps
+  x11-session-utils xclip xcvt xfonts-base xfonts-efont-unicode
+  xfonts-efont-unicode-ib xfonts-scalable xinit xinput xorg xserver-common
+  xserver-xorg xserver-xorg-core xserver-xorg-input-all xserver-xorg-input-libinput
+  xserver-xorg-input-wacom xserver-xorg-legacy xserver-xorg-video-all
+  xserver-xorg-video-amdgpu xserver-xorg-video-ati xserver-xorg-video-fbdev
+  xserver-xorg-video-intel xserver-xorg-video-nouveau xserver-xorg-video-qxl
+  xserver-xorg-video-radeon xserver-xorg-video-vesa xserver-xorg-video-vmware zsync
